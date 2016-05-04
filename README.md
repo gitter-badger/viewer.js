@@ -3,6 +3,8 @@
 
 # Viewer.js
 
+[![Join the chat at https://gitter.im/flanagan2024/viewer.js](https://badges.gitter.im/flanagan2024/viewer.js.svg)](https://gitter.im/flanagan2024/viewer.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A viewer for documents converted with the [Box View API](https://box-view.readme.io/reference).
 
 ## Contents
